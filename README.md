@@ -5,6 +5,7 @@ Download:
   https://drive.google.com/drive/folders/17YuJ07saAQqVgCBeBpk3emrm7X6VX5aV?usp=sharing
   
 The dataset is availabel for anyone, please cite the following paper:
-  Dongzeng Zeng, Yi Yu, Keizo Oyama, MTM Dataset for Joint Representation Learning among Sheet Music, Lyrics, and Musical Audio. CSMT2020.
+
+  [1] Dongzeng Zeng, Yi Yu, Keizo Oyama, MTM Dataset for Joint Representation Learning among Sheet Music, Lyrics, and Musical Audio. CSMT2020.
   
 If you have any question, please contact with donghuozeng@gmail.com
