@@ -4,7 +4,7 @@ The Musical Ternary Modalities Dataset (MTM-Dataset), a public and easily access
 Download: 
   https://drive.google.com/drive/folders/17YuJ07saAQqVgCBeBpk3emrm7X6VX5aV?usp=sharing
   
-The dataset is availabel for anyone, please cite the following paper:
+The dataset is available for anyone, please cite the following paper:
 
   [1] Dongzeng Zeng, Yi Yu, Keizo Oyama, MTM Dataset for Joint Representation Learning among Sheet Music, Lyrics, and Musical Audio. CSMT2020.
   
